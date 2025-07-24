@@ -26,7 +26,7 @@ It transforms a static analysis report logic object into a treemap view object.
 
 **INPUT**
 
-Invoke the transformation by using the [POST /treemap] (http://localhost:3000/treemap) route with a static analysis report in JSON (obtained from [DENIM Reverse Engineering](https://github.com/DatabaseEvolutionNudgeInMicroservices/reverse-engineering)) inside the request.
+Invoke the transformation by using the [POST /treemap](http://localhost:3000/treemap) route with a static analysis report in JSON (obtained from [DENIM Reverse Engineering](https://github.com/DatabaseEvolutionNudgeInMicroservices/reverse-engineering)) inside the request.
 
 **OUTPUT**
 
